@@ -15,11 +15,11 @@ function preload(){
   ninjajump = loadAnimation("Jump__000.png","Jump__001.png","Jump__002.png","Jump__003.png","Jump__004.png","Jump__005.png","Jump__006.png","Jump__007.png","Jump__008.png","Jump__009.png",)
   ninjacut = loadAnimation("Attack__000.png","Attack__001.png","Attack__002.png","Attack__003.png","Attack__004.png","Attack__005.png","Attack__006.png","Attack__007.png","Attack__008.png","Attack__009.png",)
   ninjadead = loadAnimation("Dead__000.png","Dead__001.png","Dead__002.png","Dead__003.png","Dead__004.png","Dead__005.png","Dead__006.png","Dead__007.png","Dead__008.png","Dead__009.png",)
-  obstacle1 = loadImage("obstacle1.png");
-  obstacle2 = loadImage("obstacle2.png");
-  obstacle3 = loadImage("obstacle3.png");
-  obstacle4 = loadImage("obstacle4.png");
-  obstacle5 = loadImage("obstacle5.png");
+  obstacle1 = loadImage("Obstacle1.png");
+  obstacle2 = loadImage("Obstacle2.png");
+  obstacle3 = loadImage("Obstacle3.png");
+  obstacle4 = loadImage("Obstacle4.png");
+  obstacle5 = loadImage("Obstacle5.png");
   bombimg = loadImage("bomb.png");
   resetimg = loadImage("reset.png");
 
