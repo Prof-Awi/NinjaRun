@@ -1,6 +1,6 @@
 # NinjaRun
 
-##Game Play
+## Game Play
 
 Use the `right arrow key` to attack
 Use the `up arrow key` to jump
