@@ -9,4 +9,4 @@ Use the `down arrow key` to slide
 Bombs and cactus will spawn
 You can attack cactus and not bomb
 
-Go to [https://www.google.com](https://www.google.com) to play
+Go to [https://prof-awi.github.io/NinjaRun/index.html](https://prof-awi.github.io/NinjaRun/index.html) to play
