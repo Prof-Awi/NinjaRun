@@ -11,3 +11,7 @@ Bombs and cactus will spawn
 You can attack cactus and not bomb
 
 Go to [https://prof-awi.github.io/NinjaRun/index.html](https://prof-awi.github.io/NinjaRun/index.html) to play
+
+## Extension
+Go to [https://github.com/Prof-Awi/NinjaRunnerExtension](https://github.com/Prof-Awi/NinjaRunnerExtension) to add Extension
+
